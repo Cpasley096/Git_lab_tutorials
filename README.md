@@ -1,3 +1,3 @@
 README
 
-Change added in dazzling_feature branch
+Change added in master
